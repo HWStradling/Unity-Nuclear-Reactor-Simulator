@@ -10,8 +10,6 @@ Currently developing a suitable abstraction to model a water coolant loop in a r
 - Particles instantiated randomly in container area and move freely more like a gas,
 - Currenly working on a system using a line rendered flow path and proxial 2D springs to model particle cohesion and an abstraction of directional flow.
 
----
-
 ## Planned Features:
 Including but not limited to:  
 
@@ -35,7 +33,7 @@ Including but not limited to:
 
 **Different reactor types**:
 - to allow for creation of scenes with dfferent reactor designs such as Pressurized Water Reactors (PWRs), or Boiling Water Reactors (BWRs) dynamically.
----
+
 ## Project Aims:
 To develop a usefull representation of a nuclear reactor and to bolster my understanding of the nuclear power generation process in an interesting way.
 
