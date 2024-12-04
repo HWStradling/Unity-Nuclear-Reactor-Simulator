@@ -5,10 +5,10 @@ Im developing a **2D Unity simulation** that provides an **abstract representati
 ---
 
 ## Current Progress:
-- Currently developing a suitable abstraction to model a water coolant loop in a reactor, 
-  - First prototype involved water particles with dynamic RB's and intial energy and a tilemap container with a fully elastic, frictionless physics materal.
-  - Particles instantiated randomly in container area and move freely more like a gas,
-  - Currenly working on a system using a line rendered flow path and proxial 2D springs to model particle cohesion and an abstraction of directional flow.
+Currently developing a suitable abstraction to model a water coolant loop in a reactor, 
+- First prototype involved water particles with dynamic RB's and intial energy and a tilemap container with a fully elastic, frictionless physics materal.
+- Particles instantiated randomly in container area and move freely more like a gas,
+- Currenly working on a system using a line rendered flow path and proxial 2D springs to model particle cohesion and an abstraction of directional flow.
 
 ---
 
