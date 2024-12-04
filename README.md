@@ -1,14 +1,11 @@
-# Unity Nuclear Reactor Simulator (Early Developement)
+# Unity Nuclear Reactor Simulator (Early Development)
 
-Im developing a **2D Unity simulation** that provides an **abstract representation** of nuclear reactor processes. The project will visualize reactor dynamics to highlight core concepts such as energy generation, heat transfer, and particle interactions, prioritizing accessibility and educational value over realism.
-
----
-
+I'm developing a **2D Unity simulation** that provides an **abstract representation** of nuclear reactor processes. The project will visualize reactor dynamics to highlight core concepts such as energy generation, heat transfer, and particle interactions, prioritizing accessibility and educational value over realism.
 ## Current Progress:
 Currently developing a suitable abstraction to model a water coolant loop in a reactor, 
-- First prototype involved water particles with dynamic RB's and intial energy and a tilemap container with a fully elastic, frictionless physics materal.
-- Particles instantiated randomly in container area and move freely more like a gas,
-- Currenly working on a system using a line rendered flow path and proxial 2D springs to model particle cohesion and an abstraction of directional flow.
+- The first prototype involved water particles with dynamic RB's and initial energy and a tilemap container with a fully elastic, frictionless physics material.
+- Particles instantiated randomly in the container area and move freely more like a gas,
+- Currently working on a system using a line-rendered flow path and proximal 2D springs to model particle cohesion and abstraction of directional flow.
 
 ## Planned Features:
 Including but not limited to:  
@@ -25,17 +22,17 @@ Including but not limited to:
 - **Radiation (alpha, beta, gamma)**.
 
 **System Dynamics**:
-- Heat and energy modeled visualy using colours and UI elements,
+- Heat and energy modelled visually using colours and UI elements,
 - Visual feedback for key interactions (animations/sound): e.g., for particle collisions, moving control rods, etc...
 
 **User Interaction/Scripted run**:
-- Depending on the scope/complexity of the project i may implement user interaction or just run a preset script of actions.
+- Depending on the scope/complexity of the project I may implement user interaction or just run a preset script of actions.
 
 **Different reactor types**:
-- to allow for creation of scenes with dfferent reactor designs such as Pressurized Water Reactors (PWRs), or Boiling Water Reactors (BWRs) dynamically.
+- to allow forthe  creation of scenes with different reactor designs such as Pressurized Water Reactors (PWRs), or Boiling Water Reactors (BWRs) dynamically.
 
 ## Project Aims:
-To develop a usefull representation of a nuclear reactor and to bolster my understanding of the nuclear power generation process in an interesting way.
+To develop a useful representation of a nuclear reactor and to bolster my understanding of the nuclear power generation process in an interesting way.
 
 
 
